@@ -26,3 +26,17 @@ F:\DoucumentInFPTU\semester_5\PRN211\WinFrom\HRMSolution_3\BusinessObjects\obj\D
 F:\DoucumentInFPTU\semester_5\PRN211\WinFrom\HRMSolution_3\BusinessObjects\obj\Debug\net6.0\BusinessObjects.pdb
 F:\DoucumentInFPTU\semester_5\PRN211\WinFrom\HRMSolution_3\BusinessObjects\obj\Debug\net6.0\BusinessObjects.genruntimeconfig.cache
 F:\DoucumentInFPTU\semester_5\PRN211\WinFrom\HRMSolution_3\BusinessObjects\obj\Debug\net6.0\ref\BusinessObjects.dll
+F:\DoucumentInFPTU\semester_5\PRN211\WinFrom\CandidateProject\BusinessObjects\bin\Debug\net6.0\BusinessObjects.deps.json
+F:\DoucumentInFPTU\semester_5\PRN211\WinFrom\CandidateProject\BusinessObjects\bin\Debug\net6.0\BusinessObjects.runtimeconfig.json
+F:\DoucumentInFPTU\semester_5\PRN211\WinFrom\CandidateProject\BusinessObjects\bin\Debug\net6.0\BusinessObjects.dll
+F:\DoucumentInFPTU\semester_5\PRN211\WinFrom\CandidateProject\BusinessObjects\bin\Debug\net6.0\BusinessObjects.pdb
+F:\DoucumentInFPTU\semester_5\PRN211\WinFrom\CandidateProject\BusinessObjects\obj\Debug\net6.0\BusinessObjects.csproj.AssemblyReference.cache
+F:\DoucumentInFPTU\semester_5\PRN211\WinFrom\CandidateProject\BusinessObjects\obj\Debug\net6.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+F:\DoucumentInFPTU\semester_5\PRN211\WinFrom\CandidateProject\BusinessObjects\obj\Debug\net6.0\BusinessObjects.AssemblyInfoInputs.cache
+F:\DoucumentInFPTU\semester_5\PRN211\WinFrom\CandidateProject\BusinessObjects\obj\Debug\net6.0\BusinessObjects.AssemblyInfo.cs
+F:\DoucumentInFPTU\semester_5\PRN211\WinFrom\CandidateProject\BusinessObjects\obj\Debug\net6.0\BusinessObjects.csproj.CoreCompileInputs.cache
+F:\DoucumentInFPTU\semester_5\PRN211\WinFrom\CandidateProject\BusinessObjects\obj\Debug\net6.0\BusinessObjects.dll
+F:\DoucumentInFPTU\semester_5\PRN211\WinFrom\CandidateProject\BusinessObjects\obj\Debug\net6.0\refint\BusinessObjects.dll
+F:\DoucumentInFPTU\semester_5\PRN211\WinFrom\CandidateProject\BusinessObjects\obj\Debug\net6.0\BusinessObjects.pdb
+F:\DoucumentInFPTU\semester_5\PRN211\WinFrom\CandidateProject\BusinessObjects\obj\Debug\net6.0\BusinessObjects.genruntimeconfig.cache
+F:\DoucumentInFPTU\semester_5\PRN211\WinFrom\CandidateProject\BusinessObjects\obj\Debug\net6.0\ref\BusinessObjects.dll

@@ -2359,11 +2359,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\DoucumentInFPTU\\semester_5\\PRN211\\WinFrom\\HRMSolution_3\\HRMSolution_2\\HRMAPP.csproj",
+      "projectUniqueName": "F:\\DoucumentInFPTU\\semester_5\\PRN211\\WinFrom\\CandidateProject\\HRMSolution_2\\HRMAPP.csproj",
       "projectName": "HRMAPP",
-      "projectPath": "F:\\DoucumentInFPTU\\semester_5\\PRN211\\WinFrom\\HRMSolution_3\\HRMSolution_2\\HRMAPP.csproj",
+      "projectPath": "F:\\DoucumentInFPTU\\semester_5\\PRN211\\WinFrom\\CandidateProject\\HRMSolution_2\\HRMAPP.csproj",
       "packagesPath": "C:\\Users\\quocd\\.nuget\\packages\\",
-      "outputPath": "F:\\DoucumentInFPTU\\semester_5\\PRN211\\WinFrom\\HRMSolution_3\\HRMSolution_2\\obj\\",
+      "outputPath": "F:\\DoucumentInFPTU\\semester_5\\PRN211\\WinFrom\\CandidateProject\\HRMSolution_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\quocd\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2380,11 +2380,11 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "F:\\DoucumentInFPTU\\semester_5\\PRN211\\WinFrom\\HRMSolution_3\\BusinessObjects\\BusinessObjects.csproj": {
-              "projectPath": "F:\\DoucumentInFPTU\\semester_5\\PRN211\\WinFrom\\HRMSolution_3\\BusinessObjects\\BusinessObjects.csproj"
+            "F:\\DoucumentInFPTU\\semester_5\\PRN211\\WinFrom\\CandidateProject\\BusinessObjects\\BusinessObjects.csproj": {
+              "projectPath": "F:\\DoucumentInFPTU\\semester_5\\PRN211\\WinFrom\\CandidateProject\\BusinessObjects\\BusinessObjects.csproj"
             },
-            "F:\\DoucumentInFPTU\\semester_5\\PRN211\\WinFrom\\HRMSolution_3\\HRMService\\HRMService.csproj": {
-              "projectPath": "F:\\DoucumentInFPTU\\semester_5\\PRN211\\WinFrom\\HRMSolution_3\\HRMService\\HRMService.csproj"
+            "F:\\DoucumentInFPTU\\semester_5\\PRN211\\WinFrom\\CandidateProject\\HRMService\\HRMService.csproj": {
+              "projectPath": "F:\\DoucumentInFPTU\\semester_5\\PRN211\\WinFrom\\CandidateProject\\HRMService\\HRMService.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\DoucumentInFPTU\\semester_5\\PRN211\\WinFrom\\HRMSolution_3\\BusinessObjects\\BusinessObjects.csproj": {}
+    "F:\\DoucumentInFPTU\\semester_5\\PRN211\\WinFrom\\CandidateProject\\BusinessObjects\\BusinessObjects.csproj": {}
   },
   "projects": {
-    "F:\\DoucumentInFPTU\\semester_5\\PRN211\\WinFrom\\HRMSolution_3\\BusinessObjects\\BusinessObjects.csproj": {
+    "F:\\DoucumentInFPTU\\semester_5\\PRN211\\WinFrom\\CandidateProject\\BusinessObjects\\BusinessObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\DoucumentInFPTU\\semester_5\\PRN211\\WinFrom\\HRMSolution_3\\BusinessObjects\\BusinessObjects.csproj",
+        "projectUniqueName": "F:\\DoucumentInFPTU\\semester_5\\PRN211\\WinFrom\\CandidateProject\\BusinessObjects\\BusinessObjects.csproj",
         "projectName": "BusinessObjects",
-        "projectPath": "F:\\DoucumentInFPTU\\semester_5\\PRN211\\WinFrom\\HRMSolution_3\\BusinessObjects\\BusinessObjects.csproj",
+        "projectPath": "F:\\DoucumentInFPTU\\semester_5\\PRN211\\WinFrom\\CandidateProject\\BusinessObjects\\BusinessObjects.csproj",
         "packagesPath": "C:\\Users\\quocd\\.nuget\\packages\\",
-        "outputPath": "F:\\DoucumentInFPTU\\semester_5\\PRN211\\WinFrom\\HRMSolution_3\\BusinessObjects\\obj\\",
+        "outputPath": "F:\\DoucumentInFPTU\\semester_5\\PRN211\\WinFrom\\CandidateProject\\BusinessObjects\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\quocd\\AppData\\Roaming\\NuGet\\NuGet.Config",

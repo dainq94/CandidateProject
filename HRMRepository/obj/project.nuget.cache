@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YXYijzVv55kzBzmws92gqsGKPoIX4uVMrx6Qq3hfjXVQ3N7VDmLSrmKmMDoefCgrbq00VeWmb6WAbReBHP4KqQ==",
+  "dgSpecHash": "c97HnXCRi+HZdWLdZjgd28JfkHfdlyMNNWiDXpWHbPPhgt4jEP27NtPs3Ghu1NNsPV095mpujztS/Vv8GivCZw==",
   "success": true,
-  "projectFilePath": "F:\\DoucumentInFPTU\\semester_5\\PRN211\\WinFrom\\HRMSolution_3\\HRMRepository\\HRMRepository.csproj",
+  "projectFilePath": "F:\\DoucumentInFPTU\\semester_5\\PRN211\\WinFrom\\CandidateProject\\HRMRepository\\HRMRepository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\quocd\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\quocd\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

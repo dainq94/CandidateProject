@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tsE7Zn86kUhemTdZe2NyWKnumbg19AcPt2CSIT9a5wLfSyarx67X4DfMWtyj/riObBP0smPAKqmVzd21Kb/fag==",
+  "dgSpecHash": "19nya5ePvOisTRfUp6X2TLyXKg+kFpe4FoQt8AQl/QYBv+sSb0Xi+PBvQ0bQZ2mPkKBm9SPYJs3S/kmoOftXsA==",
   "success": true,
-  "projectFilePath": "F:\\DoucumentInFPTU\\semester_5\\PRN211\\WinFrom\\HRMSolution_3\\BusinessObjects\\BusinessObjects.csproj",
+  "projectFilePath": "F:\\DoucumentInFPTU\\semester_5\\PRN211\\WinFrom\\CandidateProject\\BusinessObjects\\BusinessObjects.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\quocd\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\quocd\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
